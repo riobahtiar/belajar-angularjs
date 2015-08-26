@@ -1,0 +1,10 @@
+
+@import "../../bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
+@import "bootstrap/_var.scss";
+@import "bootstrap/_bootstrap.scss";
+.bonyok{
+	background-color: #DC2F2F;
+	.container{
+		background-color: inherit;
+	}
+}
